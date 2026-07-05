@@ -1,0 +1,5 @@
+print("I wake up at 6 am in the morning")
+print("I leave at 7:15 am for the bus stop")
+print("My bus comes at 7:25 am")
+print("My classes start at 7:50 am")
+print("I leave school at 2:25 pm")
