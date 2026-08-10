@@ -1,8 +1,3 @@
-import turtle
-
-t = turtle.Turtle()
-
-for i in range(4):
-    t.color(1,0,1)
-
-turtle()
+if coin != 1 and coin != 5 and coin != 10 and coin != 25:
+    print("Invalid coin, try again!")
+    continue
